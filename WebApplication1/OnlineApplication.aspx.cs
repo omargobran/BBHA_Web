@@ -90,7 +90,7 @@ namespace WebApplication1
                 try
                 {
                     IBBHA_Select bh = client.CreateProxy<IBBHA_Select>
-                    (new Uri("http://6eb90182.ngrok.io/BBHA"));
+                    (new Uri("http://d613ecc4.ngrok.io/BBHA"));
                     bh.BBHA_Select(out string newFileName, out int featuresCountOld, out int featuresCountNew,
                     out double acc, out byte[] imgArr, out string result, out int[] selection,
                     tblData, str, columns, rows);
@@ -245,7 +245,7 @@ namespace WebApplication1
                 try
                 {
                     IBBHA_Predict bh = client.CreateProxy<IBBHA_Predict>
-                    (new Uri("http://6eb90182.ngrok.io/BBHA"));
+                    (new Uri("http://d613ecc4.ngrok.io/BBHA"));
                     bh.BBHA_Predict(out string newFileName, out int countDiseased, out int countHealthy,
                         out byte[] imgArr, out string result, tblData, str, columns, rows);
 

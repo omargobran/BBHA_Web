@@ -11,9 +11,10 @@
         <div class="inner">
             <article>
                 <header>
-                    <h3 style="padding-top: 20px;">Praesent placerat magna</h3>
+                    <h3 style="padding-top: 20px;">What To Expect</h3>
                 </header>
-                <p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor lorem ipsum.</p>
+                <p>This applictaion allows you to import your dataset as a .csv file and to run on the dataset the best optimization algorithm alongside one of the best popular calssifiers
+            all together and exclusively on our desktop Application giving you the best accurate medical results for heart diseases and gene selection leaving you with the ability to download the optimized dataset to use it for further revisions.</p>
             </article>
         </div>
     </section>

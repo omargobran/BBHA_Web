@@ -4,7 +4,7 @@
 <html>
 
 <head>
-    <title>MoVL-BBHA</title>
+    <title>Mo-BBHA</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="assets/css/main.css" />
@@ -15,7 +15,7 @@
     <!-- Header -->
     <header id="header">
         <div class="inner">
-            <a href="HomePage.aspx" class="logo">MoVL-BBHA</a>
+            <a href="HomePage.aspx" class="logo">Mo-BBHA</a>
             <nav id="nav">
                 <a href="HomePage.aspx">Home</a>
                 <a href="OnlineApplication.aspx">Online Application</a>
@@ -31,7 +31,7 @@
         <div class="inner">
             <div class="flex">
                 <div class="copyright">
-                    &copy; A&O Co. Design:<a href="https://www.linkedin.com/in/anas-alamin-21a239132/">Anas </a>& <a href="https://www.linkedin.com/in/omargobran/">Omar</a> Limited.
+                    &copy; O&A Design:<a href="https://www.linkedin.com/in/anas-alamin-21a239132/">Anas </a>& <a href="https://www.linkedin.com/in/omargobran/">Omar</a> Limited.
                 </div>
                 <ul class="icons">
                     <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>

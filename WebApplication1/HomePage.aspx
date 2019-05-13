@@ -4,7 +4,7 @@
     <!-- Header -->
     <!-- Banner -->
     <section id="banner">
-        <h1>Welcome to MoVL-BBHA</h1>
+        <h1>Welcome to Mo-BBHA</h1>
         <p>A free responsive gene selection service website.</p>
     </section>
     <form runat="server">
