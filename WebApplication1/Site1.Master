@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>MoVL-BBHA</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="Shortcut Icon" href="images/BH_icon.ico" type="image/x-icon" />
+</head>
+
+<body class="subpage">
+    <!-- Header -->
+    <header id="header">
+        <div class="inner">
+            <a href="HomePage.aspx" class="logo">MoVL-BBHA</a>
+            <nav id="nav">
+                <a href="HomePage.aspx">Home</a>
+                <a href="OnlineApplication.aspx">Online Application</a>
+                <a href="HomePage.aspx#contact">Contact Us</a>
+            </nav>
+            <a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+        </div>
+    </header>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <div class="flex">
+                <div class="copyright">
+                    &copy; A&O Co. Design:<a href="https://www.linkedin.com/in/anas-alamin-21a239132/">Anas </a>& <a href="https://www.linkedin.com/in/omargobran/">Omar</a> Limited.
+                </div>
+                <ul class="icons">
+                    <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                    <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="#" class="icon fa-linkedin"><span class="label">linkedIn</span></a></li>
+                    <li><a href="#" class="icon fa-pinterest-p"><span class="label">Pinterest</span></a></li>
+                    <li><a href="#" class="icon fa-vimeo"><span class="label">Vimeo</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>
